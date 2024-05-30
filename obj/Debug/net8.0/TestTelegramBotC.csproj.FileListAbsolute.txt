@@ -16,3 +16,4 @@ c:\Users\mr tarahi\Desktop\TestTelegramBotC\obj\Debug\net8.0\refint\TestTelegram
 c:\Users\mr tarahi\Desktop\TestTelegramBotC\obj\Debug\net8.0\TestTelegramBotC.pdb
 c:\Users\mr tarahi\Desktop\TestTelegramBotC\obj\Debug\net8.0\TestTelegramBotC.genruntimeconfig.cache
 c:\Users\mr tarahi\Desktop\TestTelegramBotC\obj\Debug\net8.0\ref\TestTelegramBotC.dll
+c:\Users\mr tarahi\Desktop\TestTelegramBotC\obj\Debug\net8.0\TestTelegramBotC.sourcelink.json
